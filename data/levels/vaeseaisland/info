@@ -1,0 +1,6 @@
+(supertux-world
+  (title (_ "Vaesea Island"))
+  (description "A fanmade SuperTux 0.3.2 Add-On")
+  (hide-from-contribs #f)
+  (levelset #f)
+)
